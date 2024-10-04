@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnserShafiq-git&label=Profile%20views&color=0e75b6&style=flat" alt="AnserShafiq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnserShafiq-Info" alt="AnserShafiq" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnserShafiq" alt="AnserShafiq" /></a> </p>
 
 - 🌱 Nowadays I'm Exploring **Angular JS, TypeScript & PostgreSQL**
 
