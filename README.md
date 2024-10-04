@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Anser Shafiq</h1>
 <h3 align="left">A dedicated software developer based in Pakistan, committed to delivering high-quality solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnserShafiq-git&label=Profile%20views&color=0e75b6&style=flat" alt="AnserShafiq-Info" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnserShafiq-git&label=Profile%20views&color=0e75b6&style=flat" alt="AnserShafiq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnserShafiq-Info" alt="AnserShafiq-Info" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnserShafiq-Info" alt="AnserShafiq" /></a> </p>
 
 - 🌱 Nowadays I'm Exploring **Angular JS, TypeScript & PostgreSQL**
 
 - 💬 Ask me about **React, React Native, TailwindCSS, C++, Python, JavaScript, Node.js, MySQL**
 
-- 📫 How to reach me: **mailto:ansershafiq@gmail.com**
+- 📫 How to reach me: **ansershafiq@gmail.com**
 
 - ⚡ Fun fact **Turning caffeine into code—and occasionally, bad puns!**
 
