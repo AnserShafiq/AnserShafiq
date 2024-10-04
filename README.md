@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Anser Shafiq</h1>
-<h3 align="center">A dedicated software developer based in Pakistan, committed to delivering high-quality solutions.</h3>
+<h1 align="left">Hi 👋, I'm Anser Shafiq</h1>
+<h3 align="left">A dedicated software developer based in Pakistan, committed to delivering high-quality solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnserShafiq-git&label=Profile%20views&color=0e75b6&style=flat" alt="AnserShafiq-Info" /> </p>
 
